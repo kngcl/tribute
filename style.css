@@ -34,12 +34,16 @@ li{
 }
 .under-images{
     padding-bottom: 20px;
+    padding-top: 20px;
+    letter-spacing: 1px;
 }
 .bor{
     max-width: 500px;
     margin: 2.125rem auto 0 auto;
     font-size: 15px;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .p{
     max-width: 570px;
